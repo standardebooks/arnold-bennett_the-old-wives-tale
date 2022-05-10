@@ -2,18 +2,16 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 blockquote.epitaph{
-	font-size: .80em;
 	font-style: normal;
 	font-variant: all-small-caps;
 	text-align: center;
 }
 
-blockquote.epitaph span{
-	font-size: 1.75em;
+blockquote.epitaph b{
+	font-size: 1.5em;
 }
 
-blockquote.refrain{
-	font-style: normal;
+#chapter-3-3 blockquote[epub|type~="z3998:song"] p{
 	font-style: italic;
 	text-align: center;
 }
@@ -48,13 +46,17 @@ section[epub|type~="dedication"] > *{
 /* End all dedications */
 
 header{
-	font-variant: small-caps;
 	margin: 1em;
+}
+
+section > header{
+	font-weight: bold;
 	text-align: center;
 }
 
-/* All lettters */
+/* All letters */
 [epub|type~="z3998:letter"] header{
+	font-variant: small-caps;
 	text-align: right;
 }
 
