@@ -8,7 +8,7 @@ blockquote.epitaph{
 }
 
 blockquote.epitaph b{
-	font-size: 1.5em;
+	font-size: larger;
 }
 
 #chapter-3-3 blockquote[epub|type~="z3998:song"] p{
