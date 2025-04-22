@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5247</dc:source>
 		<dc:source>https://archive.org/details/oldwivestale00bennuoft</dc:source>
-		<meta property="se:word-count">220210</meta>
+		<meta property="se:word-count">220211</meta>
 		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Old_Wives%27_Tale</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arnold-bennett_the-old-wives-tale</meta>
